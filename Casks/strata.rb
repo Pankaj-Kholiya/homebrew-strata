@@ -1,6 +1,6 @@
 cask "strata" do
-  version "1.0.33"
-  sha256 "a7977a3f6dfe1034aa8e250d93736ed704f12568be9c18d437ddf21ab99dd088"
+  version "1.0.34"
+  sha256 "c42994d00be5e683f3d893425465fcd98217144473a779c199f8ae8c1c351122"
 
   url "https://stratamaccleaner.com/downloads/Strata-#{version}.dmg"
   name "Strata"
